@@ -12,10 +12,10 @@
 # 7-ApplicantIncome
 # 8-CoapplicantIncome
 # 9-Loan Amount
-#10-Loan_Amount_Term 
-#11-Credit_History 
-#12-Property_Area
-#13-Loan_Status
+# 10-Loan_Amount_Term 
+# 11-Credit_History 
+# 12-Property_Area
+# 13-Loan_Status
 # Problem Statement - 
 # We have to predict whether a loan is approved or not based on the customer's profile using key features such as applicant income, credit history, etc.
 # Problem Type - Classification(Since the response variable(Loan_status) are categorical)
