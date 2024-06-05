@@ -23,12 +23,12 @@
 # 1- Exploratory data analysis - a) Descriptive Statistics - Five point summary b) Boxplot - Treatment for Outliers c) Heatmap - Correlation
 # 2- Data preprocessing - a) Feature importance b) Scaling c) Missing values d) Train and test split e) K-fold cross Validation
 # 3- Modelling -
-# 1- Logistics Regression 
-# 2- Support Vector Classifier
-# 3- Decision Tree Classifier
-# 4- Random Forest Classifier
-# 5- Gradeient Boosting Classifier
-#4-Optimization (Model improvement) Techniques used- 
+# 1. Logistics Regression 
+# 2. Support Vector Classifier
+# 3. Decision Tree Classifier
+# 4. Random Forest Classifier
+# 5. Gradeient Boosting Classifier
+# 4-Optimization (Model improvement) Techniques used- 
 # Randomized search cv (for optimality)
 
 
