@@ -1,5 +1,5 @@
 # Classification-Project---Loan-Predication
-# This repository contains various ML based classification algorithm experimented on Wine dataset. Also, optimization techniques are implemented to improve the model
+# This repository contains various ML based classification algorithm experimented on Bank Dataset. Also, optimization techniques are implemented to improve the model
 # Dataset - The dataset has been taken from Kaggle name of Loan Prediction Dataset
 # Dataset - (https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)
 # Attributes -
